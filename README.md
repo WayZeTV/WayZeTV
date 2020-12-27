@@ -1,7 +1,7 @@
 ### Salut moi c'est WayZe (Noah) 👋
-Développeur LUA & HTML
-15 ans | Seconde
-Développeur de FunIsland
+- Développeur LUA & HTML
+- 15 ans | Seconde
+- Développeur de FunIsland
 <!--
 **WayZeTV/WayZeTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
