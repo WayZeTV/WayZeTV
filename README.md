@@ -2,6 +2,8 @@
 - Développeur LUA & HTML
 - 15 ans | Seconde
 - Développeur de [FunIsland](https://discord.gg/ZcRCmBmgFc)
+
+- Je fais également des tutoriels sur le développement FiveM sur ma [chaîne Youtube](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q) !
 <!--
 **WayZeTV/WayZeTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
