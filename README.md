@@ -1,5 +1,5 @@
 ### Salut moi c'est WayZe (Noah) 👋
-- Développeur LUA & HTML
+- Développeur LUA sur FiveM
 - 15 ans | Seconde
 - Développeur de [FunIsland](https://discord.gg/ZcRCmBmgFc)
 
