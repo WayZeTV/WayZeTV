@@ -1,4 +1,4 @@
-### Salut moi c'est WayZe (Noah) 👋
+### Salut moi c'est WayZe 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/WayZeTV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/WayZeTV)
 - Développeur LUA sur FiveM
 - 16 ans | Première
