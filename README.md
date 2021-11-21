@@ -10,9 +10,3 @@
 - Je fais également des tutoriels sur le développement FiveM sur ma [chaîne Youtube](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q) !
 
 [![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/UCwrVESX4HcDwRnXZagsGV1Q?label=s%27abonner&style=for-the-badge)](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q/subscribe)
-
-
-
-[![WayZeTV's github stats](https://github-readme-stats.vercel.app/api?username=WayZeTV)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WayZeTV)]
