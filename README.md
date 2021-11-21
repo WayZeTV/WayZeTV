@@ -13,6 +13,6 @@
 
 ### Comment me contacter ?
 
-[DM Twitter](https://twitter.com/WayZeTV)
-[DM Instagram](https://instagram.com/wayze_tv)
-Par mail : wayzeprofessionnel@gmail.com
+- [DM Twitter](https://twitter.com/WayZeTV)
+- [DM Instagram](https://instagram.com/wayze_tv)
+- Par mail : wayzeprofessionnel@gmail.com
