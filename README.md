@@ -8,7 +8,7 @@
 
 <a href="https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q/subscribe" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCSG40zTkJMUbW-GSYjux3bg?label=s%27abonner&style=for-the-badge" alt="Youtube WayZe" /></a>
 
-[![Youtube Follow](https://img.shields.io/twitter/follow/WayZeTV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q/subscribe)
+[![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/UCSG40zTkJMUbW-GSYjux3bg?label=s%27abonner&style=for-the-badge)](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q/subscribe)
 
 
 
