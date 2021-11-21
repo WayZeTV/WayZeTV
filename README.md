@@ -6,11 +6,8 @@
 
 - Je fais également des tutoriels sur le développement FiveM sur ma [chaîne Youtube](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q) !
 
-</p>
- <p align="center">
-<a href="https://www.youtube.com/channel/UCSG40zTkJMUbW-GSYjux3bg" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCSG40zTkJMUbW-GSYjux3bg?label=s%27abonner&style=for-the-badge" alt="Youtube Shazuub" /></a>
-</p>
-</p>
+<a href="https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q/subscribe" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCSG40zTkJMUbW-GSYjux3bg?label=s%27abonner&style=for-the-badge" alt="Youtube WayZe" /></a>
+
 
 [![WayZeTV's github stats](https://github-readme-stats.vercel.app/api?username=WayZeTV)]
 
