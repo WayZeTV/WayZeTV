@@ -1,7 +1,5 @@
 ### Salut moi c'est WayZe 👋
 
-<a href="https://discords.com/bio/p/wayze" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-1/289813540410359809.png" alt="Discord" /></a>
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/WayZeTV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/WayZeTV)
 - Développeur Débutant en LUA sur FiveM
 - 16 ans | Première STMG
