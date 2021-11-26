@@ -5,7 +5,7 @@
 - 16 ans | Première STMG
 - Développeur et Fondateur de [FunIsland](https://twitter.com/FunIslandRP)
 
-- Je fais également des tutoriels sur le développement FiveM sur ma [chaîne Youtube](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q) !
+- Je fais également des tutoriels sur des choses simples pour créer son serveur FiveM sur ma [chaîne Youtube](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q) !
 
 [![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/UCwrVESX4HcDwRnXZagsGV1Q?label=s%27abonner&style=for-the-badge)](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q/subscribe)
 
