@@ -14,6 +14,6 @@
 - [DM Twitter](https://twitter.com/WayZeTV)
 - [DM Instagram](https://instagram.com/wayze_tv)
 - Par mail : wayzeprofessionnel@gmail.com
-- 
+
 ### Rejoins le meilleur serveur de Développement FiveM français :
 <a href="https://discord.gg/Wc4ujJNcpQ"><img src="https://discord.com/api/guilds/723245101282885742/widget.png?style=banner1"></a>
