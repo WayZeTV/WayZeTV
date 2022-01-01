@@ -1,9 +1,9 @@
 ### Salut moi c'est WayZe 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/WayZeTV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/WayZeTV)
-- Développeur Débutant en LUA sur FiveM
+- Développeur en LUA sur FiveM
 - 16 ans | Première STMG
-- Développeur et Fondateur de [FunIsland](https://twitter.com/FunIslandRP)
+- Ancien Développeur et Fondateur de [FunIsland](https://twitter.com/FunIslandRP)
 
 - Je fais également des tutoriels sur des choses simples pour créer son serveur FiveM sur ma [chaîne Youtube](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q) !
 
