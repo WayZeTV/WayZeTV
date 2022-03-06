@@ -2,8 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/WayZeTV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/WayZeTV)
 - Développeur en LUA sur FiveM
-- 16 ans | Première STMG
+- 16 ans | Première
 - Ancien Développeur et Fondateur de [FunIsland](https://twitter.com/FunIslandRP)
+- Président et Directeur d'[HanoHost Hébergement](https://hanohost.fr)
 
 - Je fais également des tutoriels sur des choses simples pour créer son serveur FiveM sur ma [chaîne Youtube](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q) !
 
