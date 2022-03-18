@@ -1,20 +1,20 @@
-### Salut moi c'est WayZe 👋
+### Hi me it's WayZe 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/WayZeTV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/WayZeTV)
-- Développeur en LUA sur FiveM
-- 16 ans | Première
-- Ancien Développeur et Fondateur de [FunIsland](https://twitter.com/FunIslandRP)
-- Président et Directeur d'[HanoHost Hébergement](https://hanohost.fr)
+- I've been doing development since 2020
+- 16 years old
+- Former Developer and Founder of [FunIsland](https://twitter.com/FunIslandRP)
+- President and Director [HanoHost Hébergement](https://hanohost.fr)
 
-- Je fais également des tutoriels sur des choses simples pour créer son serveur FiveM sur ma [chaîne Youtube](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q) !
+- I also do tutorials to create your FiveM server on [Youtube](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q) !
 
 [![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/UCwrVESX4HcDwRnXZagsGV1Q?label=s%27abonner&style=for-the-badge)](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q/subscribe)
 
-### Comment me contacter ?
+### How to contact me?
 
-- [DM Twitter](https://twitter.com/WayZeTV)
-- [DM Instagram](https://instagram.com/wayze_tv)
-- Par mail : wayzeprofessionnel@gmail.com
+- [Twitter](https://twitter.com/WayZeTV)
+- [Instagram](https://instagram.com/wayze_tv)
+- By email : wayzeprofessionnel@gmail.com
 
-### Rejoins le meilleur serveur de Développement FiveM français :
+### SW Development
 <a href="https://discord.gg/Wc4ujJNcpQ"><img src="https://discord.com/api/guilds/723245101282885742/widget.png?style=banner1"></a>
