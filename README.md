@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/WayZeTV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/WayZeTV)
 - I've been doing development since 2020
-- 16 years old
+- 17 years old
 - Former Developer and Founder of [FunIsland](https://twitter.com/FunIslandRP)
 - President and Director [HanoHost Hébergement](https://hanohost.fr)
 
