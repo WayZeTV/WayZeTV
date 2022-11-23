@@ -6,9 +6,9 @@
 - Former Developer and Founder of [FunIsland](https://twitter.com/FunIslandRP)
 - President and Director [HanoHost Hébergement](https://hanohost.fr)
 
-- I also do tutorials to create your FiveM server on [Youtube](https://www.youtube.com/channel/WayZe) !
+- I also do tutorials to create your FiveM server on [Youtube](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q) !
 
-[![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/WayZelabel=s%27abonner&style=for-the-badge)](https://www.youtube.com/channel/WayZe/subscribe)
+[![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/UCwrVESX4HcDwRnXZagsGV1Qlabel=s%27abonner&style=for-the-badge)](https://www.youtube.com/channel/UCwrVESX4HcDwRnXZagsGV1Q/subscribe)
 
 ### How to contact me?
 
