@@ -1,4 +1,4 @@
-### Hi me it's WayZe 👋
+### Hi, me it's WayZe 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/WayZeTV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/WayZeTV)
 - I've been doing development since 2020
