@@ -1,7 +1,7 @@
-### Hi, me it's WayZe 👋
+### Hi, me it's Noah / WayZe 👋
 
 - I've been doing development since 2020
-- 18 years old
+- 19 years old
 - Former Developer and Founder of [FunIsland](https://twitter.com/FunIslandRP)
 - President and Director [HanoHost Hébergement](https://hanohost.fr)
 
@@ -9,7 +9,7 @@
 
 ### How to contact me?
 
-- [Twitter](https://twitter.com/WayZeTV)
+- [Twitter](https://twitter.com/WayZeSEO)
 - [Instagram](https://instagram.com/wayze_tv)
 - By email : prowayze@gmail.com
 
